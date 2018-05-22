@@ -918,6 +918,18 @@ td.t-price
 	font-size: 1em !important;
 	font-weight: 400;
 }
+
+.inner-page-spacer
+{
+	
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.verify-acct p
+{
+	line-height: 1.5em;
+}
 /**RESPONSIVE**/
 
 	@media (max-width: 992px) {
